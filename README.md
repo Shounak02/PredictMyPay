@@ -26,12 +26,3 @@ Predict your future salary and visualize your career growth path using machine l
 - XGBoost Regressor
 
 ---
-
-## 📁 Project Structure
-
-career_forecaster/
-├── app.py # Main Streamlit app
-├── model_utils.py # Model training, preprocessing, forecasting logic
-├── requirements.txt # Required packages
-└── data/
-└── adult 3.csv # Dataset used (UCI Adult Income Dataset)
